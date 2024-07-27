@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m a Software Architect at Ninjacart
-- 🌱 I’m currently learning Data Platform, OPAL
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Designing Data Intensive Applications
+- 👯 I’m looking to collaborate on any OpenSource Project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, Scala, Networking, Microservices, DevOps, Functional Programming and Data Platform  
 - 📫 How to reach me: https://www.linkedin.com/in/suryaprabhakark/
