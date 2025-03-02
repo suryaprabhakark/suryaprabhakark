@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a Software Architect at Ninjacart
+- 🔭 I’m a Software Architect at MStack Chemicals
 - 🌱 I’m currently learning Designing Data Intensive Applications
 - 👯 I’m looking to collaborate on any OpenSource Project
 - 🤔 I’m looking for help with ...
